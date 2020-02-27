@@ -3,9 +3,15 @@ Steps to run:-
 
 Program 1:
 ----------
-1> Run `ruby filename.rb "partners.csv path" "input.csv path" "output.csv path"
+1> Run `ruby filename.rb "output_filename"
+   Ex: 
+     $ ruby filename.rb "output1"
 
 Program 2:
 ----------
  
-1>  Run `ruby filename.rb "partners.csv path" "capacities.csv path" "input.csv path" "output.csv path"
+1>  Run `ruby filename.rb "output_filename"
+    Ex: 
+      $ ruby filename.rb "output2"
+
+https://github.com/RealImage/challenge2019/compare/master...Nijanth9424:master
